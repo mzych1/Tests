@@ -1,8 +1,4 @@
 #include "testy.h"
-#include "funkcje.h"
-#include "C:\Program Files (x86)\vcpkg-master\installed\x86-windows\include\cunit\Basic.h"
-#include "C:\Program Files (x86)\vcpkg-master\installed\x86-windows\include\cunit\Cunit.h"
-//#include "CUnit/CUnit.h"
 
 //test functions
 void test_dodaj()
